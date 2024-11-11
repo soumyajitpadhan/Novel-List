@@ -1,0 +1,241 @@
+[
+    {
+      "title": "The Silent Forest",
+      "author": "Sarah Green",
+      "price": 22.99,
+      "release_year": 2018,
+      "genre": "Thriller"
+    },
+    {
+      "title": "Wings of Freedom",
+      "author": "James Black",
+      "price": 14.49,
+      "release_year": 2020,
+      "genre": "Adventure"
+    },
+    {
+      "title": "Shadows of the Past",
+      "author": "Jessica Brown",
+      "price": 17.99,
+      "release_year": 2021,
+      "genre": "Mystery"
+    },
+    {
+      "title": "Dragon's Quest",
+      "author": "Robert White",
+      "price": 27.99,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Forgotten Key",
+      "author": "Mary Harris",
+      "price": 19.50,
+      "release_year": 2019,
+      "genre": "Thriller"
+    },
+    {
+      "title": "Endless Horizons",
+      "author": "William Clark",
+      "price": 23.99,
+      "release_year": 2020,
+      "genre": "Adventure"
+    },
+    {
+      "title": "Secrets of the Ocean",
+      "author": "Patricia Allen",
+      "price": 16.75,
+      "release_year": 2021,
+      "genre": "Mystery"
+    },
+    {
+      "title": "Journey to the Stars",
+      "author": "David Young",
+      "price": 30.00,
+      "release_year": 2023,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Darkened Path",
+      "author": "Elizabeth Adams",
+      "price": 24.50,
+      "release_year": 2021,
+      "genre": "Thriller"
+    },
+    {
+      "title": "The Desert's Secret",
+      "author": "Christopher Lee",
+      "price": 18.25,
+      "release_year": 2022,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Lost City",
+      "author": "Michael Scott",
+      "price": 20.99,
+      "release_year": 2021,
+      "genre": "Adventure"
+    },
+    {
+      "title": "Tales of the Unknown",
+      "author": "Nancy Taylor",
+      "price": 16.50,
+      "release_year": 2020,
+      "genre": "Mystery"
+    },
+    {
+      "title": "A Dance of Flames",
+      "author": "Daniel Wilson",
+      "price": 28.50,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Enchanted Forest",
+      "author": "Rachel Harris",
+      "price": 22.00,
+      "release_year": 2021,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Lost Kingdom",
+      "author": "Edward King",
+      "price": 19.75,
+      "release_year": 2023,
+      "genre": "Adventure"
+    },
+    {
+      "title": "Echoes of the Past",
+      "author": "Lucy Allen",
+      "price": 18.80,
+      "release_year": 2019,
+      "genre": "Thriller"
+    },
+    {
+      "title": "The Awakening",
+      "author": "George Robinson",
+      "price": 21.99,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Whispers in the Wind",
+      "author": "Olivia Carter",
+      "price": 24.00,
+      "release_year": 2021,
+      "genre": "Mystery"
+    },
+    {
+      "title": "The Secret Door",
+      "author": "David Martinez",
+      "price": 17.50,
+      "release_year": 2020,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Crimson Tide",
+      "author": "Monica Turner",
+      "price": 23.00,
+      "release_year": 2023,
+      "genre": "Thriller"
+    },
+    {
+      "title": "The Celestial Kingdom",
+      "author": "Catherine Walker",
+      "price": 18.99,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Shattered Dreams",
+      "author": "Joshua Green",
+      "price": 19.25,
+      "release_year": 2021,
+      "genre": "Mystery"
+    },
+    {
+      "title": "The Edge of the World",
+      "author": "Megan Lee",
+      "price": 26.00,
+      "release_year": 2020,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Final Countdown",
+      "author": "Emma Walker",
+      "price": 15.99,
+      "release_year": 2019,
+      "genre": "Thriller"
+    },
+    {
+      "title": "A Glimpse of Heaven",
+      "author": "Sophia Smith",
+      "price": 27.50,
+      "release_year": 2023,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Hidden Path",
+      "author": "John Mitchell",
+      "price": 25.99,
+      "release_year": 2021,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Seer's Vision",
+      "author": "Lily Johnson",
+      "price": 21.49,
+      "release_year": 2020,
+      "genre": "Mystery"
+    },
+    {
+      "title": "Through the Darkness",
+      "author": "Hannah Roberts",
+      "price": 22.75,
+      "release_year": 2021,
+      "genre": "Thriller"
+    },
+    {
+      "title": "The King's Curse",
+      "author": "William Edwards",
+      "price": 26.25,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Uncharted Waters",
+      "author": "Andrew Clark",
+      "price": 29.00,
+      "release_year": 2023,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Last Horizon",
+      "author": "Emily White",
+      "price": 20.50,
+      "release_year": 2021,
+      "genre": "Mystery"
+    },
+    {
+      "title": "The Eternal Night",
+      "author": "Benjamin Harris",
+      "price": 23.75,
+      "release_year": 2023,
+      "genre": "Thriller"
+    },
+    {
+      "title": "Beneath the Stars",
+      "author": "Olivia Turner",
+      "price": 19.99,
+      "release_year": 2020,
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Lost Star",
+      "author": "Chloe Scott",
+      "price": 24.50,
+      "release_year": 2022,
+      "genre": "Fantasy"
+    }
+  ]
+  

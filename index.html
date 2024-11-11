@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novel List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Novel List</h1>
+
+        <div id="operations">
+            <select name="" id="filter-year">
+                <option value="all">Filter by Year</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+            </select>
+
+            <input id="search" type="text" placeholder="Search By Title/Author">
+
+            <select name="" id="sort-price">
+                <option value="all">Sort By Price</option>
+                <option value="htl">High To Low</option>
+                <option value="lth">Low To High</option>
+            </select>
+        </div>
+
+        <table id="novelsTable">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Price</th>
+                    <th>Release Year</th>
+                    <th>Genre</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
